@@ -1,0 +1,26 @@
+.btn{
+    padding: 10px 20px;
+    background: #0077FF;
+    outline: none;
+    border: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin: auto;
+    transition: 0.4s;
+    margin-top: 20px;
+    min-width: 160px;
+    justify-content: center;
+
+}
+.btn img{
+    margin-left: 10px;
+}
+.btn:hover{
+    background: #0259bd;
+}
